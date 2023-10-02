@@ -1,0 +1,33 @@
+2
+530.0           
+huevo aaa
+3900.0
+leche
+4300.0
+tomate
+3300.0   
+cebolla
+-1
+12
+huevo aaa
+1
+leche
+2
+tomate
+-1
+1150.0
+arepa
+4550.0
+azucar morena
+1890.0
+mantequilla
+2500.0
+arroz
+2420.0
+atun
+-1
+2
+arepa
+1
+mantequilla
+-1
